@@ -1,0 +1,124 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: arial;
+}
+#x1{
+	position: relative;
+	left: 60px;
+	top: 18px;
+	width: 50px;
+	
+}
+
+#x2{
+	position: relative;
+	left: 113px;
+	top: 0px;
+	width: 50px;	
+}
+
+#x3{
+	position: relative;
+	left: 1200px;
+	width: 50px;
+	bottom: 12.8px;
+}
+
+#x4{
+	position: relative;
+	left: 1255px;
+	width: 50px;
+	bottom: 31px;
+	
+}
+
+#x5{
+	position: relative;
+	left: 1330px;
+	width: 19px;
+	bottom: 49px;
+	}
+
+#x6{
+	position: relative;
+	left: 1365px;
+	bottom: 81px;
+	
+	width: 30px;
+}
+
+#foto{
+	position: relative;
+	left: 530px;
+	top: 70px;
+}
+
+input{
+	position: relative;
+	top: 80px;
+	left: 435px;
+	width: 480px;
+	height: 40px;
+	border-radius: 30px;
+	border: 0.5px solid;
+
+}
+
+#inputgönder{
+		border: 1px #f2f2f2;
+		width: 150px;
+		position:relative;
+		bottom: 40px;
+		border-radius: 0px;
+		position: relative;
+		top: 110px;
+		left: 520px;
+		font-family: arial;
+		color: #5f6368;
+		font-size: 14px;
+		height:  36px;
+}
+
+#inputgönder1{
+		border: 1px #f2f2f2;
+		width: 150px;
+		position:relative;
+		bottom: 40px;
+		border-radius: 0px;
+		position: relative;
+		top: 110px;
+		left: 530px;
+		font-family: arial;
+		color: #5f6368;
+		font-size: 14px;
+		height:  36px;
+
+}
+
+ul li{
+	text-decoration: none;
+	list-style-type: none;
+	background-color: #f2f2f2 ;
+
+}
+
+#ilkuc{
+	float: left;
+	position: relative;
+	top: 400px;
+	padding: 15px;
+	
+	background-color: #f2f2f2 ; 
+
+	
+}
+
+#sonuc{
+	float: right;
+	position: relative;
+	top:400px;
+	padding: 15px;
+	background-color: #f2f2f2 ;
+}
+
